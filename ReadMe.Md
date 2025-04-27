@@ -1,10 +1,10 @@
-Visited Places Project
+# Visited Places Project
 A simple JavaScript application that tracks and displays places a user has visited.
 Version: 1.0.0
 Date: April 2025
 By: Angel
 
-Description
+## Description
 The Visited Places project allows users to track places they have visited. The application allows users to add new places, store them locally in the browser using localStorage, and view the list of visited places. Users can also remove places from the list.
 
 This project uses JavaScript, HTML, and CSS to manage and display a list of visited places. The list is persistent across page reloads thanks to the use of localStorage.
